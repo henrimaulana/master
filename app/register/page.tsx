@@ -4,8 +4,8 @@ import RegisterForm from "../../components/RegisterForm";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Register - Bursa malaysia Bhd",
-  description: "Register to Bursa malaysia Bhd",
+  title: "Register - PENTAHEX",
+  description: "Register to PENTAHEX",
 };
 
 const RegisterPage = () => {

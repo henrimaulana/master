@@ -6,9 +6,9 @@ const Footer = () => {
       <div className="flex flex-col gap-5 text-white text-center">
         <div className="flex items-center gap-2">
           <img src="/logo.png" alt="logo" className="w-[100px]" />
-          <h2 className="text-2xl font-bold">Bursa malaysia Bhd</h2>
+          <h2 className="text-2xl font-bold">PENTAHEX</h2>
         </div>
-        <p>Copyright © 2024 Bursa malaysia Bhd, All Rights Reserved.</p>
+        <p>Copyright © 2024 PENTAHEX, All Rights Reserved.</p>
       </div>
     </footer>
   );

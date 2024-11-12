@@ -7,9 +7,9 @@ import Progress from "./Progress";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Bursa malaysia Bhd",
+  title: "PENTAHEX",
   description:
-    "Welcome To Bursa malaysia Bhd. Suruhanjaya MasterBinary is an investment or stock trading company that was founded in 2009 and is present in almost all countries in the world.",
+    "Welcome To PENTAHEX. Suruhanjaya MasterBinary is an investment or stock trading company that was founded in 2009 and is present in almost all countries in the world.",
 };
 
 export default function RootLayout({

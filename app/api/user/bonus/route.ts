@@ -11,7 +11,7 @@ export async function POST(req: Request) {
     await prisma.notifications.create({
       data: {
         username,
-        sender: "Bursa malaysia Bhd",
+        sender: "PENTAHEX",
         desc: `Bonus Added: ${amount} To Your Account!`,
       },
     });
@@ -32,7 +32,7 @@ export async function POST(req: Request) {
         username,
         amount,
         desc,
-        from: "Bursa malaysia Bhd",
+        from: "PENTAHEX",
       },
     });
 

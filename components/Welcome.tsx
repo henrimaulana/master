@@ -8,12 +8,10 @@ const Welcome = () => {
       id="why"
       className="flex flex-col gap-4 text-center py-10 lg:py-16 text-white"
     >
-      <h1 className="text-4xl lg:text-4xl font-bold">
-        Why choose Bursa malaysia Bhd
-      </h1>
+      <h1 className="text-4xl lg:text-4xl font-bold">Why choose PENTAHEX</h1>
       <p>
-        Bursa malaysia Bhd is an investment or stock trading company that was
-        founded in 2009 and is present in almost all countries in the world.
+        PENTAHEX is an investment or stock trading company that was founded in
+        2009 and is present in almost all countries in the world.
       </p>
       <p>
         Apart from forex and crypto trading, we also offer the most profitable

@@ -44,9 +44,7 @@ const LoginForm = () => {
           src="/logo.png"
           alt="logo"
         />
-        <h1 className="text-xl font-bold text-white md:text-2xl">
-          Bursa malaysia Bhd
-        </h1>
+        <h1 className="text-xl font-bold text-white md:text-2xl">PENTAHEX</h1>
       </div>
       <div className="p-6 space-y-4 sm:p-8">
         <h1 className="text-lg font-bold leading-tight tracking-tight text-white">

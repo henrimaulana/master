@@ -13,8 +13,8 @@ import Progress from "../Progress";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Admin | Bursa malaysia Bhd",
-  description: "Dashboard Bursa malaysia Bhd",
+  title: "Admin | PENTAHEX",
+  description: "Dashboard PENTAHEX",
 };
 
 export default async function RootLayout({

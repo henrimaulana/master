@@ -3,7 +3,7 @@ import React from "react";
 import LoginForm from "../../components/LoginForm";
 
 export const metadata: Metadata = {
-  title: "Login - Bursa malaysia Bhd",
+  title: "Login - PENTAHEX",
   description: "Login to Suruhanjaaya Master Binary",
 };
 const LoginPage = () => {

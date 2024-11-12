@@ -317,13 +317,13 @@ const Sidebar = ({
               <div className="relative mr-3">
                 <img
                   src={item.image[1]}
-                  alt="Bursa malaysia Bhd"
+                  alt="PENTAHEX"
                   className="w-[30px] rounded-full border-4 border-[#232A34]"
                 />
                 <div className="absolute bottom-[-40%] left-[-40%]">
                   <img
                     src={item.image[0]}
-                    alt="Bursa malaysia Bhd"
+                    alt="PENTAHEX"
                     className="w-[30px] rounded-full border-4 border-[#232A34]"
                   />
                 </div>
